@@ -68,6 +68,8 @@ article .secundario {
 }
 
 div.contenedorNegro {
+  align-items: center;
+  padding: 10px;
   background-color: black;
   width: 100%;
   display: flex;
